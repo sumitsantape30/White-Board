@@ -13,13 +13,13 @@
  
 ## 📌 Introduction 
 
-- White Board is an interactive digital whiteboard web application.
-- It lets user to write anything on the board using the Pen, the user can choose the color of the Pen, there are 4 colors (Black, Blue, Green, Red) user can choose any of these colors and write using it. The user can also change the width of the pencil by setting the range.
-- The user can erase the the data written on the board using Eraser. The width of the eraser can also be increased by setting the range.
-- If user wants to download the content written on the board then Download button helps in dowloading the content user has written on the board. The files downloaded are in the JPG format.
-- The user can upload the pictures using Upload Button to use them on the board.
-- The sticky notes can also be created by using Sticky Notes Button. These sticky notes can be drag and drop anywhere in the board. The user can minimise and delete the sticky notes by clicking on their respective buttons. To create the multiple sticky notes the user can simply double click on the Sticky Notes Button. 
-- The Undo button helps to reverse the action of an earlier action and Redo button restores any actions that were previously undone using an undo..
+- **White Board** is an interactive digital whiteboard web application.
+- It lets user to write anything on the board using the **Pen**, the user can choose the **color of the Pen**, there are 4 colors **(Black, Blue, Green, Red)** user can choose any of these colors and write using it. The user can also change the width of the pencil by setting the **range**.
+- The user can erase the the data written on the board using **Eraser**. The width of the eraser can also be increased by setting the **range**.
+- If user wants to download the content written on the board then **Download Button** helps in dowloading the content user has written on the board. The files downloaded are in the **JPG format**.
+- The user can upload the pictures using **Upload Button** for using them on the board.
+- The sticky notes can also be created by using **Sticky Notes Button**. These sticky notes can be **drag** and **drop** anywhere in the board. The user can **minimise** and **delete** the sticky notes by clicking on their respective buttons. To create the **multiple sticky notes** the user can simply double click on the Sticky Notes Button. 
+- The **Undo** button helps to reverse the action of an earlier action and **Redo** button restores any actions that were previously undone using an undo..
 
 ## 📷 Live Demo 
 
@@ -31,18 +31,15 @@ Checkout the demo video of the project
 
 ## 🏛️ Tech Used
 
-```
-- HTML
-- CSS
-- JavaScript
-- Canvas API
-- Socket.io
-- Express
-    
-```
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://javascript.info/)
+- [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+- [Socket.io](https://socket.io/docs/v4/)
+- [Express](https://expressjs.com/)
 
 
-## 💻 Meet the Author
+## 💻 Author
 
 Created with 💖 by :
     
