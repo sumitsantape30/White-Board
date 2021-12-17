@@ -61,3 +61,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📃 License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+If you loved the Project do give it a star 😇⭐ 
