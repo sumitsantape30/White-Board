@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/sumitsantape30/White-Board">
-        <img style="border-radius:50%" src="https://github.com/sumitsantape30/White-Board/blob/main/Public/Icons/favi.png" alt="Logo" width="300" height="200"> 
+        <img style="border-radius:50%" src="https://github.com/sumitsantape30/White-Board/blob/main/Public/Icons/wb.png" alt="Logo" width="400" height="300"> 
 </p>
  
 ## 📌 Introduction 
