@@ -48,8 +48,8 @@ Checkout the demo video of the project [here](https://)
 Created with 💖 by :
   [Sumit Santape](https://github.com/sumitsantape30) 
   
-- [LinkedIn](https://github.com/L3g3Nd4Ry-iwnl)
-- [Twitter](https://github.com/Aravindh222)
+- [LinkedIn](https://www.linkedin.com/in/sumit-santape-32b82b190)
+- [Twitter](https://twitter.com/sumitsantape?t=ATSNSAakdkq8TKbPk_NdQA&s=08)
 - [Linktree](https://linktr.ee/sumitsantape)
 
 
