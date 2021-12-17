@@ -1,11 +1,9 @@
 
 <p align="center">
 <br>
-    <a href="" alt="Maintained">
-        <img src="https://img.shields.io/maintenance/yes/2021"/>
-    </a>
-    <a href="" alt="Code Size">
-        <img src="https://img.shields.io/github/languages/code-size/HariAcidReign/Biometric-Security-System"/>
+    
+    <a >
+        <h4> White Board </h4>
     </a>
 <br>
 <br>
