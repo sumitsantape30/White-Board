@@ -1,10 +1,8 @@
+##White Board
 
 <p align="center">
 <br>
     
-    <a >
-        <h4> White Board </h4>
-    </a>
 <br>
 <br>
 </p>
