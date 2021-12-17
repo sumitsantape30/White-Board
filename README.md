@@ -11,6 +11,7 @@
         <img style="border-radius:50%" src="https://github.com/sumitsantape30/White-Board/blob/main/Public/Icons/wb.png" alt="Logo" width="400" height="300"> 
 </p>
  
+    
 ## 📌 Introduction 
 
 - **White Board** is an interactive digital whiteboard web application.
@@ -21,10 +22,12 @@
 - The sticky notes can also be created by using **Sticky Notes Button**. These sticky notes can be **drag** and **drop** anywhere in the board. The user can **minimise** and **delete** the sticky notes by clicking on their respective buttons. To create the **multiple sticky notes** the user can simply double click on the Sticky Notes Button. 
 - The **Undo** button helps to reverse the action of an earlier action and **Redo** button restores any actions that were previously undone using an undo..
 
+    
 ## 📷 Live Demo 
 
 Checkout the demo video of the project
 
+    
 ## 🎯 Purpose of the Project
  (para)
 
@@ -51,9 +54,9 @@ Created with 💖 by :
 - [Linktree](https://linktr.ee/sumitsantape)
 
 
-## Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-## License
+## 📃 License
 [MIT](https://choosealicense.com/licenses/mit/)
