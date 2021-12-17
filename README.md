@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/HariAcidReign/Biometric-Security-System">
-        <img style="border-radius:50%" src="https://user-images.githubusercontent.com/58134096/115948010-2761fb00-a4e9-11eb-9a8d-bc37d98c7fd9.png" alt="Logo" width="500" height="300"> 
+        <img style="border-radius:50%" src="https://github.com/sumitsantape30/White-Board/blob/main/Public/Icons/favi.png" alt="Logo" width="300" height="200"> 
 </p>
  
 ## 📌 Introduction 
@@ -20,10 +20,10 @@
 
 ## 📷 Live Demo 
 
-Checkout the demo video of the project [here](https://drive.google.com/file/d/1sucM_L-Qwbap3nVtWf2vTCGhBBF3EvR8/view?usp=sharing)
+Checkout the demo video of the project [here](https://)
 
 ## 🎯 Purpose of the Project
-
+ (para)
 
 
 ## 🏛️ Tech Stack Used
