@@ -20,7 +20,7 @@
 
 ## 📷 Live Demo 
 
-Checkout the demo video of the project [here]()
+Checkout the demo video of the project
 
 ## 🎯 Purpose of the Project
  (para)
