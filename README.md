@@ -7,7 +7,7 @@
 <br>
 </p>
 <p align="center">
-    <a href="https://github.com/HariAcidReign/Biometric-Security-System">
+    <a href="https://github.com/sumitsantape30">
         <img style="border-radius:50%" src="https://github.com/sumitsantape30/White-Board/blob/main/Public/Icons/favi.png" alt="Logo" width="300" height="200"> 
 </p>
  
