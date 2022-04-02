@@ -13,7 +13,7 @@
  
         
 ## 🎯 Purpose of the Project
- The project aims to help teachers to interact with students directly on the screen using a tool or even a mouse. This will surely take online teaching on the next level and help both teachers and students. Digital Interactive Whiteboards have been proven to encourage a more interactive and engaging learning experience to the students. On top of offering engaging experience, digital white board also makes the learning and classes more enjoyable.
+ The project aims to help teachers to interact with students directly on the screen using a tool or even a mouse. Digital Interactive Whiteboards have been proven to encourage a more interactive and engaging learning experience to the students. On top of offering engaging experience, digital white board also makes the learning and classes more enjoyable.
 
     
 ## 📌 Introduction 
